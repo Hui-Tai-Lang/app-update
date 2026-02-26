@@ -1,7 +1,7 @@
 {
-    "versionCode": 20240225,
-    "versionName": "1.2.0",
-    "apkUrl": "https://github.com/Hui-Tai-Lang/app-update/blob/master/Homing_pigeon_positioning/app-release.apk",
+    "versionCode": 202402261022,
+    "versionName": "1.3.4",
+    "apkUrl": "https://hui-tai-lang.github.io/app-update/Homing_pigeon_positioning/app-release.apk",
     "forceUpdate": false,
     "updateLog": "测试远程更新功能\n1. 修复已知问题\n2. 优化性能"
 }
