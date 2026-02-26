@@ -1,1 +1,3 @@
 此仓库用于app的远程更新，请勿删除
+仓库说明：
+1.Homing_pigeon_positioning文件夹用于鸽子定位器APP的更新

@@ -1,0 +1,7 @@
+{
+    "versionCode": 20240225,
+    "versionName": "1.2.0",
+    "apkUrl": "https://gitee.com/你的用户名/app-update/raw/master/app-release.apk",
+    "forceUpdate": false,
+    "updateLog": "测试远程更新功能\n1. 修复已知问题\n2. 优化性能"
+}
